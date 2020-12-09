@@ -28,16 +28,17 @@ h3{
 }
 table{
     margin-left: 200px;
-    font-size: 0.9rem;
 }
 th{
     text-align: center;
     font-family: sans-serif;
+    font-size: 0.9rem;
 }
 td{
     padding-right: 40px;
     padding-left: 10px;
     font-family: sans-serif;
+    font-size: 0.9rem;
 }
 .work{
     margin-left: 220px;
@@ -66,8 +67,8 @@ td{
     top: 380px;
 }
 .picture{
-    width: 150px;
-    height: 150px;
+    width: 160px;
+    height: 160px;
     float: left;
     padding-left: 200px;
     margin-right: 20px;

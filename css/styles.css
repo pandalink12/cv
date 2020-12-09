@@ -12,6 +12,7 @@ h1{
 }
 p{
     font-family: sans-serif;
+    font-size: 1rem;
 }
 h2{
     font-family: 'Montserrat', sans-serif;
@@ -52,7 +53,7 @@ td{
 .bottom_div{
     background-color: #d0e8f2;
     padding: 20px;
-    font-size: 10%
+    font-size: 0.8rem;
 }
 .top_cloud{
     position: absolute;

@@ -1,0 +1,131 @@
+body {
+    background-color: #fcf8ec;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin: 30px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #dd9866;
+    font-size: 562.5%;
+}
+p{
+    font-family: sans-serif;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+    color: #c05555;
+    text-align: center;
+    margin: 10px auto 30px auto;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+table{
+    margin-left: 200px;
+}
+th{
+    text-align: center;
+    font-family: sans-serif;
+}
+td{
+    padding-right: 40px;
+    padding-left: 10px;
+    font-family: sans-serif;
+}
+.work{
+    margin-left: 220px;
+}
+.top_div{
+    background-color: #d0e8f2;
+    position: relative;
+    padding-top: 50px;
+}
+.middle_div{
+    background-color: #fcf8ec;
+    padding-bottom: 20px;
+}
+.bottom_div{
+    background-color: #d0e8f2;
+    padding: 20px;
+    font-size: 10%
+}
+.top_cloud{
+    position: absolute;
+    right: 250px;
+    top: 30px;
+}
+.bottom_cloud{
+    position: absolute;
+    left: 250px;
+    top: 380px;
+}
+.picture{
+    width: 150px;
+    height: 150px;
+    float: left;
+    padding-left: 200px;
+    margin-right: 20px;
+}
+.picture1{
+    width: 140px;
+    height: 140px;
+    float: right;
+    padding-right: 200px;
+    margin-left: 20px;
+}
+.skills{
+    background-color: #ffe0d8;
+    margin: 50px auto 50 auto;
+    text-align: left;
+    padding-top: 20px;
+}
+.skill-row{
+    background-color: #ffe0d8;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    padding-bottom: 20px;
+}
+.contact-me{
+    margin: 0 auto 0 auto;
+}
+.me{
+    width: 150px;
+    height: 150px;
+}
+.footer-link{
+    color: #66BFBF;
+    margin: 20px;
+}
+.copyright{
+    margin: 20px;
+}
+.BUTTON_HMV {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 17px;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #D0E8F2;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 20px;
+}
+
+.BUTTON_HMV:hover {
+   background: #ffe0d8;
+   border: solid #ffe0d8 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
